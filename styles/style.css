@@ -58,12 +58,13 @@ nav ul li a::after{
 
 nav ul li a:hover::after{
     width: 100%;
+    
 }
 
 
 .header-text{
-    margin-top: 10%;
-    font-size: 25px
+    margin-top: 15%;
+    font-size: 35px
 }
 
 .head-text h1 {
@@ -113,6 +114,7 @@ nav ul li a:hover::after{
   
   .sidenav a:hover {
     color: #f1f1f1;
+    font-size: 27px;
   }
   
   .sidenav .closebtn {
@@ -121,6 +123,15 @@ nav ul li a:hover::after{
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+  }
+
+  .sidenav ul {
+    padding-top: 400px;
+  }
+
+  .sidenav ul li a{
+    padding-top: 40px;
+    color: #fc9cb9;
   }
   
   @media screen and (max-height: 450px) {
@@ -131,25 +142,32 @@ nav ul li a:hover::after{
 
   /* Social media icon styling*/
   .fa {
-    padding: 20px;
-    font-size: 300px;
-    width: 50px;
-    text-align: left;
+    padding: 5.5px;
+    font-size: 33.5px;
+    text-align: center;
     text-decoration: none;
-    margin: 8px 20px;
+    margin: 15px 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
   }
   
   .fa:hover {
-      opacity: 0.7;
+      opacity: 0.6;
   }
 
   .fa-linkedin {
-    background: #007bb5;
-    color: white;
+    background: #ced4bc;
+    color: black;
   }
 
   .fa-github {
-    background: #007bb5;
-    color: white;
+    background: #ced4bc;
+    color: black;
+  }
+
+  .fa-envelope {
+    background: #ced4bc;
+    color: black;
   }
   
