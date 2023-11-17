@@ -1,4 +1,4 @@
-
+/* ----------- Homepage styling ----------- */
 *{
     margin: 0;
     padding: 0;
@@ -74,21 +74,7 @@ nav ul li a:hover::after{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* SideNav stuff*/
+/* ----------- Side navbar styling -----------*/
 .sidenav {
     height: 100%;
     width: 0;
@@ -140,7 +126,7 @@ nav ul li a:hover::after{
   }
 
 
-  /* Social media icon styling*/
+  /* ----------- Social media icon styling -----------*/
   .fa {
     padding: 5.5px;
     font-size: 33.5px;
@@ -153,21 +139,55 @@ nav ul li a:hover::after{
   }
   
   .fa:hover {
-      opacity: 0.6;
+      opacity: 0.8;
+      background: transparent;
+      color: #fff;
   }
 
   .fa-linkedin {
     background: #ced4bc;
-    color: black;
+    color: #0b1228;
   }
 
   .fa-github {
     background: #ced4bc;
-    color: black;
+    color: #0b1228;
   }
 
   .fa-envelope {
     background: #ced4bc;
-    color: black;
+    color: #0b1228;
   }
   
+  /* ----------- About Me styling ----------- */
+
+  #about{
+
+    padding : 80px 0; 
+
+  }
+
+  .row{
+    display : flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+  }
+
+.ab-col-1{
+  flex-basis: 40%;
+}
+
+.ab-col-1 img{
+  width: 100%;
+  border-radius: 15px;
+}
+
+.ab-col-2{
+  flex-basis: 10%;  /* 5% space between columns */
+}
+
+.sub-tit{
+  font-size: 60px;
+  font-weight: 600;
+  color: #ced4bc;
+}
