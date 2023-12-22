@@ -166,6 +166,7 @@ nav ul li a:hover::after{
     padding : 80px 0; 
     color: #ced4bc;
     
+    
   }
 
   .row{
@@ -259,14 +260,27 @@ nav ul li a:hover::after{
 }
 
 .projects-list div{
-  line-height: 2;
+  line-height: 1.5;
   background: #f4d0dd;
   padding: 40px;
   font-size: 13px;
   font-weight: 300;
   border-right: 10px;
+  transition: background 0.5s, transform 0.5s;
 }
 
 .projects-list a {
   color:#5a0732;
+}
+
+.projects-list i {
+  font-size: 20px;
+}
+.projects-list div:hover{
+  background: #f1caab;
+  transform: translateY(-10px);
+}
+
+#project{
+  font-size: 20px;
 }
