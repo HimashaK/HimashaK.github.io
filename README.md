@@ -7,8 +7,9 @@ Original Website Design: <br><br>
 ![pic1](https://github.com/HimashaK/HimashaK.github.io/assets/90633056/ab158921-43fc-40e7-8042-054ec8f3133a)
 <br>
 Responsive Design (for smaller screens): <br><br>
-![pic2](https://github.com/HimashaK/HimashaK.github.io/assets/90633056/dacd46ca-9e2a-4a2a-8230-457426119e41)
-
+<p align="center">
+  <img src="[https://github.com/HimashaK/RegressionProject/assets/90633056/a9e256c7-35aa-4306-b9eb-4ab5fd204448](https://github.com/HimashaK/HimashaK.github.io/assets/90633056/dacd46ca-9e2a-4a2a-8230-457426119e41)https://github.com/HimashaK/HimashaK.github.io/assets/90633056/dacd46ca-9e2a-4a2a-8230-457426119e41" width="50%" height="50%">
+</p>
 
 
 
