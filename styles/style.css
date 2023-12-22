@@ -316,15 +316,77 @@ nav ul li a:hover::after{
   display: inline-block;
   margin: 50px auto;
   width: fit-content;
-  border: 1px solid #ff004f;
   padding: 14px 50px;
   border-radius: 6px;
   text-decoration: none;
   color: #0e334c;
   transition: background 0.5s;
-  background: #f4d0dd;
+  background: #eb82a0;
 }
 
 .btn:hover{
   background:  #f1caab;
+}
+
+.contact-right form{
+  width:100%
+}
+
+form input, form textarea{
+  width: 100%;
+  border: 0;
+  outline: none;
+  background: #f1caab;
+  padding: 15px;
+  margin: 15px 0;
+  color: #000000;
+  font-size: 14px;
+  border-radius: 6px;
+}
+
+/* CSS for smaller screens */
+@media only screen and (max-width: 600px){
+  #header{
+    background-image: url(../images/background_image-phone.jpg) ;
+  }
+  .head-text{
+    margin-top: 100%;
+    font-size: 16px;
+  }
+  .header-text h1{
+    font-size: 35px;
+  }
+
+  .sub-ts{
+    font-size: 30px;
+  }
+  
+  .ab-col-1, .ab-col-2{
+    flex-basis:100%;
+  }
+
+  .ab-col-1{
+    margin-bottom: 30px;
+  }
+
+  .ab-col-2{
+    font-size:14px ;
+  }
+
+  .tab-ls{
+    font-size: 16px;
+    margin-right: 20px;
+  }
+
+  .contact-left p i{
+    color:transparent;
+    background: transparent;
+    font-size: 10px;
+  }
+
+  .social-icons i{
+    color:#e6808f;
+    background: transparent;
+    font-size: 40px;
+  }
 }
