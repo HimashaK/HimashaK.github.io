@@ -3,5 +3,9 @@ This project uses HTML, CSS, and JavaScript to create a personal portfolio websi
 <br><br>
 Original Website Design: <br><br>
 ![image](https://github.com/HimashaK/personal_portfolioHK/assets/90633056/5804f778-64c8-485f-b505-40e5034c9e2f)
+<br><br>
+Responsive Design (for smaller screens): <br><br>
+![image](https://github.com/HimashaK/personal_portfolioHK/assets/90633056/68384105-bb9b-42ca-af64-be06cb66d15d)
+
 
 
