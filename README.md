@@ -7,7 +7,8 @@ Original Website Design: <br><br>
 
 <br>
 Responsive Design (for smaller screens): <br><br>
-![pic2](https://github.com/HimashaK/HimashaK.github.io/assets/90633056/74fa440e-27a4-4a54-afc8-af43078bb15f)
+
+![pic2](https://github.com/HimashaK/HimashaK.github.io/assets/90633056/3370298e-de1d-4607-ad81-7f6857dc1554)
 
 
 
